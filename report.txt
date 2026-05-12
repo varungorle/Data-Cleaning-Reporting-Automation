@@ -1,0 +1,16 @@
+HEALTHCARE DATA REPORT
+
+                    Name           Age Gender Blood Type Medical Condition Date of Admission  ... Billing Amount   Room Number Admission Type  Discharge Date  Medication Test Results
+count              54966  54966.000000  54966      54966             54966             54966  ...   54966.000000  54966.000000          54966           54966       54966        54966
+unique             40235           NaN      2          8                 6              1827  ...            NaN           NaN              3            1856           5            3
+top     Michael Williams           NaN   Male         A-         Arthritis        2024-03-16  ...            NaN           NaN       Elective      2020-03-15     Lipitor     Abnormal
+freq                  24           NaN  27496       6898              9218                50  ...            NaN           NaN          18473              53       11038        18437
+mean                 NaN     51.535185    NaN        NaN               NaN               NaN  ...   25544.306284    301.124404            NaN             NaN         NaN          NaN
+std                  NaN     19.605661    NaN        NaN               NaN               NaN  ...   14208.409711    115.223143            NaN             NaN         NaN          NaN
+min                  NaN     13.000000    NaN        NaN               NaN               NaN  ...   -2008.492140    101.000000            NaN             NaN         NaN          NaN
+25%                  NaN     35.000000    NaN        NaN               NaN               NaN  ...   13243.718641    202.000000            NaN             NaN         NaN          NaN
+50%                  NaN     52.000000    NaN        NaN               NaN               NaN  ...   25542.749145    302.000000            NaN             NaN         NaN          NaN
+75%                  NaN     68.000000    NaN        NaN               NaN               NaN  ...   37819.858159    401.000000            NaN             NaN         NaN          NaN
+max                  NaN     89.000000    NaN        NaN               NaN               NaN  ...   52764.276736    500.000000            NaN             NaN         NaN          NaN
+
+[11 rows x 15 columns]
